@@ -60,10 +60,13 @@
         <mxCell id="jv1xj51UD5T0E9-BN5bi-13" value="消除场上金币" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="600" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jv1xj51UD5T0E9-BN5bi-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jv1xj51UD5T0E9-BN5bi-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.407;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jv1xj51UD5T0E9-BN5bi-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="700" as="sourcePoint" />
-            <mxPoint x="360" y="650" as="targetPoint" />
+            <mxPoint x="310" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="740" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
