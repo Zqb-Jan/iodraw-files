@@ -46,11 +46,15 @@
         <mxCell id="jv1xj51UD5T0E9-BN5bi-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;玩家是否获取足够金币&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="460" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jv1xj51UD5T0E9-BN5bi-9" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.96;exitY=0.548;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jv1xj51UD5T0E9-BN5bi-2" target="jv1xj51UD5T0E9-BN5bi-13">
+        <mxCell id="jv1xj51UD5T0E9-BN5bi-9" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jv1xj51UD5T0E9-BN5bi-2" target="jv1xj51UD5T0E9-BN5bi-13">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="280" y="210" as="sourcePoint" />
             <mxPoint x="390" y="504" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="610" />
+              <mxPoint x="205" y="610" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jv1xj51UD5T0E9-BN5bi-13" value="消除场上金币" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
