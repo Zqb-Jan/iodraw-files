@@ -44,7 +44,7 @@
           <mxGeometry x="360" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jv1xj51UD5T0E9-BN5bi-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;玩家是否获取金币&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="165" y="450" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
