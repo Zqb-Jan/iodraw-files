@@ -242,7 +242,7 @@
           <mxGeometry x="215" y="2478" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J2H3PQ5d8LWUq9HhHxWH-40" value="继续攻击" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="2370" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="2368" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
