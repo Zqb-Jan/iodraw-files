@@ -192,6 +192,11 @@
             <mxPoint x="370" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J2H3PQ5d8LWUq9HhHxWH-26">
+          <mxGeometry x="-0.0581" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J2H3PQ5d8LWUq9HhHxWH-25" value="是否赢了2回合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1900" width="100" height="100" as="geometry" />
         </mxCell>
