@@ -249,8 +249,16 @@
         <mxCell id="J2H3PQ5d8LWUq9HhHxWH-40" value="继续攻击" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="2368" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J2H3PQ5d8LWUq9HhHxWH-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="223" y="2880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-42" value="敌人血量是否归零" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="173" y="2690" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="2818" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
