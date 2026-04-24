@@ -107,7 +107,7 @@
         <mxCell id="jv1xj51UD5T0E9-BN5bi-25" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="305" y="448" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-0" value="游戏开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1020" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
