@@ -115,8 +115,18 @@
         <mxCell id="J2H3PQ5d8LWUq9HhHxWH-0" value="游戏开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1020" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J2H3PQ5d8LWUq9HhHxWH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-5" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J2H3PQ5d8LWUq9HhHxWH-4">
+          <mxGeometry x="0.0548" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J2H3PQ5d8LWUq9HhHxWH-2" value="玩家是否发动技能" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="1180" width="135" height="100" as="geometry" />
+          <mxGeometry x="147.5" y="1180" width="135" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
