@@ -259,7 +259,7 @@
             <mxPoint x="390" y="2740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J2H3PQ5d8LWUq9HhHxWH-46">
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-47" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J2H3PQ5d8LWUq9HhHxWH-46">
           <mxGeometry x="-0.2114" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -272,6 +272,9 @@
         </mxCell>
         <mxCell id="J2H3PQ5d8LWUq9HhHxWH-45" value="游戏结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="2880" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2H3PQ5d8LWUq9HhHxWH-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="2690" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
